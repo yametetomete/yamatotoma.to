@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Johnny's Corner
+title: YameteTomete Translation Cooperative
 
 # Your name to show in the footer
-author: JohnnyZB
+author: YameteTomete
 
 # --- List of links in the navigation bar --- #
 
@@ -38,10 +38,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "email@poweris.moe"
+#  email: "louis@poweris.moe"
 #  facebook: deanattali
-#  github: daattali
-  twitter: SymphoNonsense
+  github: yametetomete
+  twitter: YameteTomete
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
