@@ -14,11 +14,10 @@ author: JohnnyZB
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  YameteTomete Discord: "https://discord.gg/fpQZQ8g"
+  Friends:
+    - Kaleido-subs: "https://kaleido.kageru.moe/"
+    - Good Job! Media: "https://www.goodjobmedia.com/"
+  Discord: "https://discord.gg/fpQZQ8g"
 
 # --- Logo --- #
 
