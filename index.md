@@ -17,7 +17,7 @@ It can also be centered!
 
 ### Projects
 
-| Pic placeholder | Info placeholder |
+| Anime | Info |
 | :--- | :--- |
 | ![Magia Record](assets/img/magia-record.jpg) | Magia Record |
 | ![Symphogear XV](assets/img/symphogear-xv.jpg) | Symphogear XV |
