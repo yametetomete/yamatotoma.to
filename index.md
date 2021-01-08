@@ -18,6 +18,7 @@ It can also be centered!
 ### Projects
 
 | Pic placeholder | Info placeholder |
+| :--- | :--- |
 | ![Magia Record](assets/img/magia-record.jpg) | Magia Record |
 | ![Symphogear XV](assets/img/symphogear-xv.jpg) | Symphogear XV |
 | ![Gekijouban Macross Delta](assets/img/macross_delta_movie.jpg) | Gekijouban Macross Delta |
