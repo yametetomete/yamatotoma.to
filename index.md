@@ -5,7 +5,7 @@ title: YameteTomete Translation Cooperative
 
 
 ### Projects
-<br>
+
 
 | Project | Status |
 | :--- | :--- |
