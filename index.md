@@ -1,6 +1,7 @@
 ---
 layout: page
 title: YameteTomete Translation Cooperative
+subtitle: YameteTomete Projects Page
 ---
 
 
