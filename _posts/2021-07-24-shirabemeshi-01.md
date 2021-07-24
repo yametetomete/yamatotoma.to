@@ -12,4 +12,4 @@ comments: false
 The first chapter of the official Symphogear spinoff manga about cooking.
 <!-- excerpt-end -->
 
-**Read:** [cubari](https://cubari.moe/read/gist/CookingWithShirabe) <br>
+**Read:** [cubari](https://cubari.moe/read/gist/CookingWithShirabe/1/1/) <br>
