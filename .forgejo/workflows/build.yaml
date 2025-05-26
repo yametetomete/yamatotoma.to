@@ -26,3 +26,7 @@ jobs:
             _site/ \
             deploy@${{ secrets.SERVER_NAME }}:/
           rm -f /tmp/id_ecdsa
+      - uses: https://code.forgejo.org/forgejo/upload-artifact@v4
+        with:
+          name: yamatotoma.to.zip
+          path: _site/
