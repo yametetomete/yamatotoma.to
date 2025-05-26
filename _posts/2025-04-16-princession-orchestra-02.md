@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Princession Orchestra - 02"
-thumbnail-img: "https://poweris.moe/assets/img/priorche_02.jpg"
+thumbnail-img: "/assets/img/priorche_02.jpg"
 share-description: ""
 tags: [Princession Orchestra]
 comments: false
 ---
 
-![Princession Orchestra - 02](https://poweris.moe/assets/img/priorche_02.jpg){: .mx-auto.d-block :}
+![Princession Orchestra - 02](/assets/img/priorche_02.jpg){: .mx-auto.d-block :}
 
 The gods of line art will see you now.
 <!-- excerpt-end -->

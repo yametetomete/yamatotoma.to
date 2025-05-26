@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Princession Orchestra - 06"
-thumbnail-img: "https://poweris.moe/assets/img/priorche_06.jpg"
+thumbnail-img: "/assets/img/priorche_06.jpg"
 share-description: ""
 tags: [Princession Orchestra]
 comments: false
 ---
 
-![Princession Orchestra - 06](https://poweris.moe/assets/img/priorche_06.jpg){: .mx-auto.d-block :}
+![Princession Orchestra - 06](/assets/img/priorche_06.jpg){: .mx-auto.d-block :}
 
 Sponsored by Orange Ginger Boba Lemonade.
 <!-- excerpt-end -->

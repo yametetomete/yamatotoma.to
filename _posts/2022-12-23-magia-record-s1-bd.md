@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Magia Record S1 (BD)"
-thumbnail-img: "https://poweris.moe/assets/img/magia_s1.jpg"
+thumbnail-img: "/assets/img/magia_s1.jpg"
 share-description: ""
 tags: [Magia Record]
 comments: false
 ---
 
-![Magia Record S1 (BD)](https://poweris.moe/assets/img/magia_s1.jpg){: .mx-auto.d-block :}
+![Magia Record S1 (BD)](/assets/img/magia_s1.jpg){: .mx-auto.d-block :}
 
 Have you heard? Has anyone told you? There's a rumor about a Season 2 Fansub. No one knows what happened to it, but some say it's still ongoing. They claim that people come back from the dead just to finish it! And that it's gonna be a full BD batch, right there and then! But the Witches of Stalling are not afraid to get their hands dirty. And so, it's still unclear when the fated day will come. Or so the rumor goes around the tomato fields.
 <!-- excerpt-end -->

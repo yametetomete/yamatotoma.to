@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Princession Orchestra - 05"
-thumbnail-img: "https://poweris.moe/assets/img/priorche_05.jpg"
+thumbnail-img: "/assets/img/priorche_05.jpg"
 share-description: ""
 tags: [Princession Orchestra]
 comments: false
 ---
 
-![Princession Orchestra - 05](https://poweris.moe/assets/img/priorche_05.jpg){: .mx-auto.d-block :}
+![Princession Orchestra - 05](/assets/img/priorche_05.jpg){: .mx-auto.d-block :}
 
 Glimmer is in the eye of the beholder.
 <!-- excerpt-end -->

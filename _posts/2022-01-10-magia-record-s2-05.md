@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Magia Record: 2nd Season - 05"
-thumbnail-img: "https://poweris.moe/assets/img/magia_s2_05.jpg"
+thumbnail-img: "/assets/img/magia_s2_05.jpg"
 share-description: ""
 tags: [Magia Record]
 comments: false
 ---
 
-![Magia Record: 2nd Season - 05](https://poweris.moe/assets/img/magia_s2_05.jpg){: .mx-auto.d-block :}
+![Magia Record: 2nd Season - 05](/assets/img/magia_s2_05.jpg){: .mx-auto.d-block :}
 
 Someone spent the holidays in this pose.
 <!-- excerpt-end -->

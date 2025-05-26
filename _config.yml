@@ -13,11 +13,11 @@ author: YameteTomete
 
 # --- List of links in the navigation bar --- #
 
-url: https://poweris.moe
+url: https://yamatotoma.to
 
 navbar-links:
-  Projects: "https://poweris.moe/projects"
-  Symphogear Wiki: "https://wiki.poweris.moe/"
+  Projects: "https://yamatotoma.to/projects"
+  Symphogear Wiki: "https://wiki.yamatotoma.to/"
   Friends:
     - Kaleido-subs: "https://kaleido.kageru.moe/"
     - Good Job! Media: "https://www.goodjobmedia.com/"
@@ -42,7 +42,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "louis@poweris.moe"
+#  email: "tomato@yamatotoma.to"
 #  facebook: deanattali
   github: yttt
   twitter: YameteTomete

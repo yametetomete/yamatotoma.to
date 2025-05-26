@@ -1,4 +1,4 @@
-## poweris.moe Main Website
+## yamatotoma.to Main Website
 
 Powered by [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll).
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Princession Orchestra - 03"
-thumbnail-img: "https://poweris.moe/assets/img/priorche_03.jpg"
+thumbnail-img: "/assets/img/priorche_03.jpg"
 share-description: ""
 tags: [Princession Orchestra]
 comments: false
 ---
 
-![Princession Orchestra - 03](https://poweris.moe/assets/img/priorche_03.jpg){: .mx-auto.d-block :}
+![Princession Orchestra - 03](/assets/img/priorche_03.jpg){: .mx-auto.d-block :}
 
 Stop scrolling through your timeline and start your magical girl adventures.
 <!-- excerpt-end -->

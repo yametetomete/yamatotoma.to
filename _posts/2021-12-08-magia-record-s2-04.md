@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Magia Record: 2nd Season - 04"
-thumbnail-img: "https://poweris.moe/assets/img/magia_s2_04.jpg"
+thumbnail-img: "/assets/img/magia_s2_04.jpg"
 share-description: ""
 tags: [Magia Record]
 comments: false
 ---
 
-![Magia Record: 2nd Season - 04](https://poweris.moe/assets/img/magia_s2_04.jpg){: .mx-auto.d-block :}
+![Magia Record: 2nd Season - 04](/assets/img/magia_s2_04.jpg){: .mx-auto.d-block :}
 
 Getting Over It with Wings of Magius.
 <!-- excerpt-end -->

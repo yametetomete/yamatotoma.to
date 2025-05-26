@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Magia Record: 2nd Season - 01"
-thumbnail-img: "https://poweris.moe/assets/img/magia_s2_01.jpg"
+thumbnail-img: "/assets/img/magia_s2_01.jpg"
 share-description: ""
 tags: [Magia Record]
 comments: false
 ---
 
-![Magia Record: 2nd Season - 01](https://poweris.moe/assets/img/magia_s2_01.jpg){: .mx-auto.d-block :}
+![Magia Record: 2nd Season - 01](/assets/img/magia_s2_01.jpg){: .mx-auto.d-block :}
 
 Just like last time, this is going to be heavily behind the airing schedule because being a fansubber is suffering.
 <!-- excerpt-end -->

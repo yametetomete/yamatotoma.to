@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Magia Record: 2nd Season - 02"
-thumbnail-img: "https://poweris.moe/assets/img/magia_s2_02.jpg"
+thumbnail-img: "/assets/img/magia_s2_02.jpg"
 share-description: ""
 tags: [Magia Record]
 comments: false
 ---
 
-![Magia Record: 2nd Season - 02](https://poweris.moe/assets/img/magia_s2_02.jpg){: .mx-auto.d-block :}
+![Magia Record: 2nd Season - 02](/assets/img/magia_s2_02.jpg){: .mx-auto.d-block :}
 
 Big birds and questionable food choices.
 <!-- excerpt-end -->

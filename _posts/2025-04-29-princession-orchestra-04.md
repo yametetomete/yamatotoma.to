@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Princession Orchestra - 04"
-thumbnail-img: "https://poweris.moe/assets/img/priorche_04.jpg"
+thumbnail-img: "/assets/img/priorche_04.jpg"
 share-description: ""
 tags: [Princession Orchestra]
 comments: false
 ---
 
-![Princession Orchestra - 04](https://poweris.moe/assets/img/priorche_04.jpg){: .mx-auto.d-block :}
+![Princession Orchestra - 04](/assets/img/priorche_04.jpg){: .mx-auto.d-block :}
 
 A coolishly cool one.
 <!-- excerpt-end -->

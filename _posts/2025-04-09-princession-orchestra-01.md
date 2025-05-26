@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Princession Orchestra - 01"
-thumbnail-img: "https://poweris.moe/assets/img/priorche_01.jpg"
+thumbnail-img: "/assets/img/priorche_01.jpg"
 share-description: ""
 tags: [Princession Orchestra]
 comments: false
 ---
 
-![Princession Orchestra - 01](https://poweris.moe/assets/img/priorche_01.jpg){: .mx-auto.d-block :}
+![Princession Orchestra - 01](/assets/img/priorche_01.jpg){: .mx-auto.d-block :}
 
 The boys don't know about it, but there's a new magical girl anime spearheaded by the creators of Symphogear.
 <!-- excerpt-end -->

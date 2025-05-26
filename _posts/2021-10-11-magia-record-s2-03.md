@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Magia Record: 2nd Season - 03"
-thumbnail-img: "https://poweris.moe/assets/img/magia_s2_03.jpg"
+thumbnail-img: "/assets/img/magia_s2_03.jpg"
 share-description: ""
 tags: [Magia Record]
 comments: false
 ---
 
-![Magia Record: 2nd Season - 03](https://poweris.moe/assets/img/magia_s2_03.jpg){: .mx-auto.d-block :}
+![Magia Record: 2nd Season - 03](/assets/img/magia_s2_03.jpg){: .mx-auto.d-block :}
 
 These things... they take time.
 <!-- excerpt-end -->

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Princession Orchestra - 07"
-thumbnail-img: "https://poweris.moe/assets/img/priorche_07.jpg"
+thumbnail-img: "/assets/img/priorche_07.jpg"
 share-description: ""
 tags: [Princession Orchestra]
 comments: false
 ---
 
-![Princession Orchestra - 07](https://poweris.moe/assets/img/priorche_07.jpg){: .mx-auto.d-block :}
+![Princession Orchestra - 07](/assets/img/priorche_07.jpg){: .mx-auto.d-block :}
 
 Only the best cats and DQ2 references.
 <!-- excerpt-end -->
