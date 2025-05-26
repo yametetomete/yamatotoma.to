@@ -1,7 +1,5 @@
 on:
-  push:
-    branches:
-      - main
+  push
 
 jobs:
   build:
@@ -18,6 +16,7 @@ jobs:
       - name: Build site
         run: jekyll build --future --config _config.yml
       - name: Deploy site
+        if: github.ref == 'refs/heads/main'
         run: |
           echo "${{ secrets.SERVER_SSH_KEY }}" >> /tmp/id_ecdsa
           chmod 600 /tmp/id_ecdsa
