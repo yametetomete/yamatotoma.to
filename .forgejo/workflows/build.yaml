@@ -1,0 +1,29 @@
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: docker
+    container:
+      image: ruby:3.3
+
+    steps:
+      - name: Install system dependencies
+        run: apt-get update && apt-get install nodejs rsync -y
+      - uses: https://code.forgejo.org/actions/checkout@v4
+      - name: Install ruby dependencies
+        run: bundle install
+      - name: Build site
+        run: jekyll build --future --config _config.yml
+      - name: Deploy site
+        run: |
+          echo "${{ secrets.SERVER_SSH_KEY }}" >> /tmp/id_ecdsa
+          chmod 600 /tmp/id_ecdsa
+          rsync \
+            -e "ssh -oStrictHostKeyChecking=no -i /tmp/id_ecdsa" \
+            -avz --delete \
+            _site/ \
+            deploy@${{ secrets.SERVER_NAME }}:/
+          rm -f /tmp/id_ecdsa
